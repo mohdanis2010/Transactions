@@ -5,6 +5,9 @@ Install it and run:
 npm install
 npm run dev
 
+App can access on:
+http://localhost:3000/
+
 ```
 
 
